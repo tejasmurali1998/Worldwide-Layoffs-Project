@@ -1,2 +1,2 @@
 # Worldwide-Layoffs-Project
-Project involves Data Cleaning and EDA in SQL. Used MySQL to clean and analyze data related to global layoffs based on company, industry, location, date, and other factors 
+Project involves Data Cleaning and EDA in SQL. Used MySQL to clean and analyze data related to global layoffs based on company, industry, location, date, and other factors. First duplicate values were removed, then data was standardized and normalized. Then NULL and blank values were addressed. Finally, Exploratory Data Analysis was done, analyzing by company, industry, and other features to discover top contributors and workforce trends. 
